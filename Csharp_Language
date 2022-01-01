@@ -1,5 +1,14 @@
-# Csharp-_1st-Step
-C#-CreateProject_VSC
+using System;
 
-
-
+namespace CsharpLanguage
+{
+   class Programm
+   { 
+       static void Main (string[] args)
+       {
+           Console.WriteLine("Hello World!");
+       }
+    }
+    
+}
+      
